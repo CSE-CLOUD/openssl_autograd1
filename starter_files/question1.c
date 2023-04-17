@@ -4,10 +4,7 @@
 #include <openssl/sha.h>
 
 void generate_sha256_hash(const char *message, unsigned char *hash) {
-    SHA256_CTX sha256;
-    SHA256_Init(&sha256);
-    SHA256_Update(&sha256, message, strlen(message));
-    SHA256_Final(hash, &sha256);
+  // TODO: Implement the function
 }
 
 bool compare_hashes(const unsigned char *hash1, const unsigned char *hash2) {
