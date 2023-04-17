@@ -9,7 +9,7 @@ This assignment requires you to complete two tasks using the OpenSSL API:
 
 1. Clone this repository.
 2. Complete the `question1.c` and `question2.c` files in the `starter_files` directory.
-3. Test your code using the provided test scripts in the `tests` directory.
+3. Run the main functions in the `question1.c` and `question2.c` files in the `starter_files` directory, to check whether your implementation is proper.
 4. Commit your changes and push your code to the repository.
 
 Good luck!
