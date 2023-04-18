@@ -12,4 +12,5 @@ This assignment requires you to complete two tasks using the OpenSSL API:
 3. Run the main functions in the `question1.c` and `question2.c` files in the `starter_files` directory, to check whether your implementation is proper.
 4. Commit your changes and push your code to the repository.
 
+##Note : Don't Change Any Lines of main() function in `question1.c` and `question2.c` files in the `starter_files` directory.
 Good luck!
